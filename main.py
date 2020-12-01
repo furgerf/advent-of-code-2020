@@ -13,7 +13,6 @@ from day import Day
 
 def parse_arguments():
   parser = ArgumentParser()
-
   parser.add_argument("-t", "--test", action="store_true")
 
   parser.add_argument("-d", "--day", type=int)
