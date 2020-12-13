@@ -20,7 +20,7 @@ class Day03(Day):
     return trees
 
   def part_1(self):
-    return self.count_trees_on_slope(1, 2)
+    return self.count_trees_on_slope(3, 1)
 
   @property
   def part_1_solution(self):

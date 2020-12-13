@@ -120,4 +120,4 @@ class Day04(Day):
 
   @property
   def part_2_solution(self):
-    return 699
+    return 140
